@@ -83,7 +83,6 @@ void load_waypoints(ros::NodeHandle& nh, const ros::Time& time_base) {
     ROS_INFO("Overall load %zu segments", waypointSegments.size());
 }
 
-
 void publish_waypoints() {
     waypoints.header.frame_id = std::string("world");
     waypoints.header.stamp = ros::Time::now();
