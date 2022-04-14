@@ -30,10 +30,10 @@ melodic
 
 Reference:
 
-《Improving Jump Point Search》
+https://blog.csdn.net/weixin_48628189/article/details/119545751?spm=1001.2014.3001.5502
 
 https://github.com/Mesywang/Astar-JPS-Algorithm
 
-https://blog.csdn.net/weixin_48628189/article/details/119545751?spm=1001.2014.3001.5502
-
 https://mesywang.github.io/2020/01/26/Jump-Point-Search/
+
+《Improving Jump Point Search》
